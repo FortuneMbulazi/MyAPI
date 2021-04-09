@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dfhMvyMMV23k8/0PWdXLCQ/OlrEDd+ZgFnkCqSvtYF6OICJuSIy0dJRNCQ1Snv5cbiBk13r3WQbOKxzavVM6dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user-pc\\source\\repos\\DevelopedByFortuneAPI\\ConsoleDemo\\ConsoleDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user-pc\\.nuget\\packages\\microsoft.extensions.apidescription.client\\3.0.0\\microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
+    "C:\\Users\\user-pc\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\user-pc\\.nuget\\packages\\nswag.apidescription.client\\13.0.5\\nswag.apidescription.client.13.0.5.nupkg.sha512",
+    "C:\\Users\\user-pc\\.nuget\\packages\\nswag.msbuild\\13.0.5\\nswag.msbuild.13.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
